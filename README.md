@@ -48,5 +48,4 @@ A complete Snapchat clone built with Flutter, Next.js, and Supabase.
    flutter run --dart-define=SUPABASE_URL=YOUR_URL --dart-define=SUPABASE_ANON_KEY=YOUR_KEY
    ```
 Just a personal project inspired  by Snapchat.  
-
 You can download the files from the "snapclone.zip" file in the uploaded files.
