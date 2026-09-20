@@ -48,6 +48,4 @@ A complete Snapchat clone built with Flutter, Next.js, and Supabase.
    flutter run --dart-define=SUPABASE_URL=YOUR_URL --dart-define=SUPABASE_ANON_KEY=YOUR_KEY
    ```
 
-## License
 
-MIT
